@@ -239,7 +239,7 @@ Each of the listed papers must have a unique ID so that they may be referred to 
   attachments:
     # A list of additional files associated with the paper.
     # The type, along with one of file must be specified.
-    - type: dataset | note | poster | presentation | software | attachment
+    - type: dataset | note | poster | presentation | software | attachment | checklist | copyright
       file: Local file path, e.g. 5.zip
   title: Title of the paper.
   abstract: Abstract of the paper, usually a LaTeX fragment.
